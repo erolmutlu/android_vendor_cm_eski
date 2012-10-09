@@ -1,1 +1,1 @@
-add_lunch_combo jb_i9100-userdebug
+add_lunch_combo cm_i9100-userdebug
